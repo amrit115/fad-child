@@ -12,8 +12,18 @@ function mytheme_require_plugins() {
             				'required'  => false,
         ),
 					array(
+						'name' => 'Menu Social Icons',
+						'slug' => 'menu-social-icons',
+						'required' => false,
+						),
+					array(
 						'name' => 'SEO by yeast',
 						'slug' => 'wordpress-seo',
+						'required' => false,
+						),
+					array(
+						'name' => 'Scrollup',
+						'slug' => 'scrollup-master',
 						'required' => false,
 						),
 					
